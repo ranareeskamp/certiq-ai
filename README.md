@@ -58,6 +58,28 @@ Performance measurement: Built the post-implementation monitoring experience to 
 
 Product experience: Developed the dashboard and user experience to make AI-generated insights accessible and actionable.
 
+## Product Design Principles
+
+CertIQ was built around four core principles:
+
+**1. Move from monitoring to intelligence**
+
+Go beyond displaying performance metrics. Identify emerging risks, declining trends, and opportunities that require attention.
+
+**2. Move from insights to investigation**
+
+Use AI agents to investigate signals across relevant data sources, uncover contributing factors, and provide context behind performance changes.
+
+**3. Connect recommendations to execution**
+
+Make insights actionable by allowing users to add recommended improvements to their task lists and manage their implementation.
+
+**4. Close the loop with impact measurement**
+
+Continue monitoring product performance after implementation, compare KPIs before and after an action, and assess whether the intervention made a difference.
+
+The objective is to create a continuous cycle of detection, investigation, decision-making, execution, and measurement.
+
 ## Important Note
 
 CertIQ is presented as a product portfolio case study. The displayed data is sample/demo data and should not be interpreted as verified business results.
