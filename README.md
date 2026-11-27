@@ -33,8 +33,8 @@ CertIQ aims to connect these activities in one continuous workflow.
 
 ## Product Demo
 
-Watch the CertIQ product walkthrough : https://github.com/ranareeskamp/certiq-ai/blob/8977d5988b08b8cce7d74280004ee6e6eab1e773/Demo%20for%20certiq.mp4
-https://youtu.be/w9O5REiqPH8
+Watch the CertIQ product walkthrough : https://youtu.be/w9O5REiqPH8
+Or download here: https://github.com/ranareeskamp/certiq-ai/blob/8977d5988b08b8cce7d74280004ee6e6eab1e773/Demo%20for%20certiq.mp4
 
 ## Product Thinking
 
